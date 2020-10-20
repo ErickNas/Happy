@@ -10,6 +10,7 @@ See information on visiting instructions for registered orphanages
 
 A simple app 
 
+```
 1. INSTRUCTIONS:
  -To start the program:
     
@@ -18,3 +19,5 @@ A simple app
     Then type in the terminal: **npm start**
         - to start a application
     In the browser search bar type: **localhost:5500**
+    
+```
