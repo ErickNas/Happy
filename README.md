@@ -3,9 +3,9 @@
 
 ![](/Happy-Interface.png)
 
-# What that application can do?
-Register and see orphanages in your city
-See information on visiting instructions for registered orphanages
+## What that application can do?
+* Register and see orphanages in your city
+* See information on visiting instructions for registered orphanages
 
 
 A simple app 
