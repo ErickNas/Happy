@@ -7,8 +7,7 @@
 * Register and see orphanages in your city
 * See information on visiting instructions for registered orphanages
 
-
-A simple app 
+ 
 
 ```
 1. INSTRUCTIONS:
